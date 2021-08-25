@@ -1,0 +1,20 @@
+{
+  "name": "ethernaut",
+  "version": "1.0.0",
+  "description": "Resolution and notes for [OpenZeppelin's Ethernaut](https://ethernaut.openzeppelin.com/) game.",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaquinlpereyra/ethernaut.git"
+  },
+  "author": "joaquinlpereyra",
+  "bugs": {
+    "url": "https://github.com/joaquinlpereyra/ethernaut/issues"
+  },
+  "homepage": "https://github.com/joaquinlpereyra/ethernaut#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.0"
+  }
+}
